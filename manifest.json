@@ -1,0 +1,17 @@
+{
+    "short_name":"pagina1",
+    "name":"creando page",
+    "icons":[
+        {
+            "src":"aña.jpg",
+            "sizes": "192 x 192",
+            "type" : "image/jpg"
+        }
+    ],
+    "start_url": "index.html",
+    "backgraund_color": "#f9d627",
+    "display": "standlore",
+    "scope": "/",
+    "theme_color":"#f9d627",
+    "description":"awa de UwU"
+}
